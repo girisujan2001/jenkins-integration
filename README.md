@@ -1,2 +1,1 @@
-# jenkins-integration
-Repo for Jenkins GitHub integration
+# Jenkins GitHub Integration Test
